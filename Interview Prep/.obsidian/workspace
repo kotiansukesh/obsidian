@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "afaaebfda5581e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "6686afc8c769c0ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OOPS/Abstraction.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a47a5018892b9b7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9904be747516c0ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7f834605c20d8cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d3979c0542a0fc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377
+  },
+  "right": {
+    "id": "7254c17d0adb0806",
+    "type": "split",
+    "children": [
+      {
+        "id": "2173c870c3c87fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "904be8855fb3628b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OOPS/Abstraction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6686afc8c769c0ff",
+  "lastOpenFiles": [
+    "OOPS/Abstraction.md",
+    "Assets/Pasted image 20210915151554.png",
+    "Object Oriented Programming.md",
+    "Collections/Set/Tree Set.md",
+    "Collections/Set/Sorted Set.md",
+    "Collections/Set/Set.md",
+    "Collections/Set/HashSet.md",
+    "Questions/Untitled.md",
+    "Threads.md",
+    "Spring/Spring Framework.md"
+  ]
+}

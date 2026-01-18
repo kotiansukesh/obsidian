@@ -1,0 +1,1 @@
+Anonymous inner class is an inner class declared inside an outer class and is without any name.

@@ -1,0 +1,1 @@
+The way a class has a static member variable, it can also have a static class as its member.

@@ -1,0 +1,1 @@
+A class without any name.

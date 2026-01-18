@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "02c7acdf395edc7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "859c7f439305356e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802061d7bb9ddcb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Prep/Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interface"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e773f5384e177e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8643aea9db448798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef627772cb222106",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b31f43124ebea8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5d5b2dd7638b9d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e30e72eccc8b25e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6701352db5cb7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313eaf2518f14780",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interview Prep/Interface.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Interface"
+            }
+          },
+          {
+            "id": "1a45107d309eada0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interview Prep/Interface.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Interface"
+            }
+          },
+          {
+            "id": "2a107b36c40dbd6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6321e193a7227d62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interview Prep/Interface.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Interface"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "802061d7bb9ddcb0",
+  "lastOpenFiles": [
+    "𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀/Sliding Window.md",
+    "Java/DSA/Array.md",
+    "Interview Prep/Questions/Untitled.md",
+    "Interview Prep/Questions",
+    "Interview Prep/Spring/Security/Spring Security.md",
+    "Interview Prep/Spring/Spring Framework.md",
+    "Interview Prep/Spring/Spring Dependency Injection.md",
+    "Interview Prep/Spring/Spring Core.md",
+    "Interview Prep/Spring/Security",
+    "Interview Prep/Spring",
+    "Interview Prep/Interface.md",
+    "Interview Prep/Assets/img/Pasted image 20230728114551.png",
+    "Interview Prep/Assets/img/Pasted image 20230727120429.png",
+    "Interview Prep/Assets/img/Pasted image 20230725103254.png",
+    "Interview Prep/Assets/img/Pasted image 20211116162456.png",
+    "Interview Prep/Assets/img/Pasted image 20211116121945.png",
+    "Interview Prep/Assets/img/Pasted image 20211116101319.png",
+    "Interview Prep/Assets/img/Pasted image 20211116081758.png",
+    "Interview Prep/Assets/img/Pasted image 20211116081632.png",
+    "Interview Prep/Assets/img/Pasted image 20211115234855.png",
+    "Interview Prep/Assets/img/Pasted image 20211113074128.png",
+    "Interview Prep/Assets/img",
+    "Interview Prep/Assets",
+    "Interview Prep/Collections/Set/Tree Set.md",
+    "Interview Prep/Collections/Set/Sorted Set.md",
+    "Interview Prep/Collections/Set/Set.md",
+    "Interview Prep/Collections/Set/HashSet.md",
+    "Interview Prep/Collections/List/Vector.md",
+    "Interview Prep/Collections/List/Stack.md",
+    "Interview Prep/Collections/List/LinkedList.md",
+    "Interview Prep/Collections/List/List.md",
+    "Interview Prep/Collections/List/ArrayList.md",
+    "Interview Prep/Collections/Set",
+    "Interview Prep/Collections/Queue.md",
+    "Interview Prep/Collections/Map.md",
+    "Interview Prep/Collections/List",
+    "Interview Prep/Collections/Collection.md",
+    "Interview Prep/Collections",
+    "Interview Prep/Method Overload.md",
+    "Interview Prep/OOPS/Single Inheritance.md",
+    "Interview Prep/OOPS/Polymorphism.md",
+    "Interview Prep/OOPS/Multilevel Inheritance.md",
+    "Interview Prep/OOPS/Multiple Inheritance (Through Interfaces).md",
+    "Interview Prep/OOPS/Inheritance.md",
+    "Interview Prep/OOPS",
+    "Interview Prep/Class/Types/Nested Class Types"
+  ]
+}
