@@ -176,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ba5fab0abd3a474",
+  "active": "6e7eb9b593bacc36",
   "lastOpenFiles": [
     "Welcome.md",
     "Untitled.md"
