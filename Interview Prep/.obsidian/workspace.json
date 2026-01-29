@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Threads"
             }
+          },
+          {
+            "id": "6d7675e0301171dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important Links"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threads.md",
+                "file": "Important Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Threads"
+              "title": "Backlinks for Important Links"
             }
           },
           {
@@ -136,8 +151,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53ca308ecbd11f58",
+  "active": "6d7675e0301171dd",
   "lastOpenFiles": [
+    "Threads.md",
+    "Important Links.md",
     "Untitled.base",
     "Untitled 1.base",
     "Questions/Interview Questions.md",
@@ -167,7 +184,6 @@
     "Design Pattern/Patterns/Dependency Injection.md",
     "Design Pattern/Patterns/Decorator Pattern.md",
     "Design Pattern/Patterns/DAO Pattern.md",
-    "Design Pattern/Patterns/Abstract Factory Method.md",
     "Assets/img/Pasted image 20230728114551.png",
     "Assets/img/Pasted image 20230727120429.png",
     "DSA",
