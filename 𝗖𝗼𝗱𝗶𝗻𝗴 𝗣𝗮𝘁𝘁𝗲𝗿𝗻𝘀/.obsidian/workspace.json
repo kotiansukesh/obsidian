@@ -13,40 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sliding Window.md",
+                "file": "Grokking the Coding Interview Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Grokking the Coding Interview Patterns"
             }
           },
           {
             "id": "da9348f701afefd7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "622e62a0f5a56d40",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sliding Window.md",
+                "file": "Grokking the Coding Interview Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sliding Window"
+              "title": "Backlinks for Grokking the Coding Interview Patterns"
             }
           },
           {
@@ -175,27 +160,40 @@
               "icon": "lucide-list",
               "title": "Outline of Sliding Window"
             }
+          },
+          {
+            "id": "a9c59f1cfcf11f07",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "622e62a0f5a56d40",
+  "active": "a04e80bdc7410562",
   "lastOpenFiles": [
     "Sliding Window.md",
+    "Grokking the Coding Interview Patterns.md",
     "desktop.ini"
   ]
 }
