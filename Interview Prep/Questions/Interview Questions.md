@@ -6,8 +6,8 @@
 5. Explain lazy initialization in Spring Boot and its impact on startup time?
 6. How would you optimize Spring boot startup time?
 7. What are the benefits of using Spring Cloud Gateway over Zuul?
-8. 
-
-![[Pasted image 20260129111733.png]]
+8. Explain the purpose of Spring Boot actuator metrics
+9. How do you implement distributed tracing using Spring Cloud Sleuth and Zipkin?
+10. What is the difference between monolithic architecture, SOA, and microservices architecture?
 
 

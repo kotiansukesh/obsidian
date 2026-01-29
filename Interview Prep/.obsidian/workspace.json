@@ -39,14 +39,14 @@
             "id": "696ce149f26c6035",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Questions/Interview Questions.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Interview Prep/Questions/Interview Questions.md",
+                "bFile": "Interview Prep/Questions/Interview Questions.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Interview Questions"
+              "icon": "diff",
+              "title": "Diff: Interview Questions  (Working Tree)"
             }
           }
         ],
@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interview Questions"
+              "title": "Backlinks"
             }
           },
           {
@@ -167,8 +166,8 @@
   },
   "active": "696ce149f26c6035",
   "lastOpenFiles": [
-    "Questions/Pasted image 20260129111733.png",
     "Questions/Interview Questions.md",
+    "Questions/Pasted image 20260129111733.png",
     "DSA/Array.md",
     "Collections/List/ArrayList.md",
     "Collections/List/List.md",
