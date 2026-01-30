@@ -12,7 +12,7 @@
 <br><br>
 
 * [[List]]
-* [[Queue]]
+* [[Java/Collections/Queue]]
 * [[Set]]
 
 
