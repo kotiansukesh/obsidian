@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9414170041e7d9c",
+        "id": "63c6d2aa51b74850",
         "type": "tabs",
         "children": [
           {
-            "id": "53ca308ecbd11f58",
+            "id": "5db03334748aa289",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -135,8 +131,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53ca308ecbd11f58",
+  "active": "5db03334748aa289",
   "lastOpenFiles": [
+    "coding-patterns/coding-patterns-Instructions.md",
+    "Java/Resources/img/Pasted image 20230725103254.png",
+    "Java/Resources/img",
+    "Java/DSA/Trees.md",
+    "Java/DSA/Stack.md",
+    "Java/DSA/SiIngly-linked List.md",
+    "Java/DSA/Queue.md",
+    "Java/DSA/Linked List.md",
+    "Java/DSA/HashMap.md",
+    "Java/DSA/Doubly-Linked List.md",
+    "Java/DSA/Array.md",
+    "Java/Resources",
+    "Java/DSA",
+    "Java",
+    "coding-patterns/Templates/Coding-Patterns",
+    "coding-patterns/Two Pointers.md",
+    "coding-patterns/Templates",
+    "coding-patterns/Sliding Window.md",
+    "coding-patterns/Grokking the Coding Interview Patterns.md",
+    "coding-patterns",
     "Threads.md",
     "Interview-Instructions.md",
     "Questions/Interview Questions.md",
@@ -153,26 +169,12 @@
     "DSA/Array.md",
     "Collections/List/ArrayList.md",
     "Collections/List/List.md",
-    "Collections/List/LinkedList.md",
-    "DSA/Stack.md",
-    "DSA/SiIngly-linked List.md",
     "Untitled.canvas",
     "Assets/img/Pasted image 20230725103254.png",
-    "DSA/Doubly-Linked List.md",
-    "DSA/Linked List.md",
-    "DSA/Trees.md",
-    "Object Oriented Programming.md",
-    "Design Pattern/Design Pattern.md",
-    "Design Pattern/Patterns/Strategy Pattern.md",
-    "Design Pattern/Patterns/Singleton Pattern.md",
-    "Design Pattern/Patterns/Observer Pattern.md",
-    "Design Pattern/Patterns/Factory Method.md",
-    "Design Pattern/Patterns/Dependency Injection.md",
     "Assets/img/Pasted image 20230728114551.png",
     "Assets/img/Pasted image 20230727120429.png",
     "DSA",
     "Assets/img/Pasted image 20210915113227.png",
-    "Assets/img",
     "Assets/img/Pasted image 20210915151554.png"
   ]
 }

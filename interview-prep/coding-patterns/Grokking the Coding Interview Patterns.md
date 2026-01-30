@@ -75,11 +75,56 @@
 - Data Stream as Disjoint Intervals
 - Meeting Rooms II
 
-## 5. 
+## 5. In-Place Manipulation of a Linked List
+	Follow efficient in-place linked list manipulation techniques for various node reordering and removal tasks.
+- Introduction to In-Place Manipulation of a Linked List
+- Reverse Linked List
+- Reverse Nodes in k-Group
+- Reverse Linked List II
+- Reorder List
+- Swapping Nodes in a Linked List
+- Reverse Nodes in Even Length Groups
+- Remove Duplicates from Sorted List
+- Remove Linked List Elements
+- Split Linked List in Parts
+- Delete N Nodes After M Nodes of a Linked List
+- Insert into a Sorted Circular Linked List
+- Odd Even Linked List
+- Swap Nodes in Pairs
 
-## 6. 
+## 6. Heaps
+	Build on efficient data structures and algorithms using heaps for dynamic data processing.
+- Introduction to Heaps
+- IPO
+- Find Median from Data Stream
+- Sliding Window Median
+- Schedule Tasks on Minimum Machines
+- Meeting Rooms III
+- Largest Number After Digit Swaps by Parity
+- Find Right Interval
+- Minimum Cost to Connect Sticks
+- Longest Happy String
+- Maximum Average Pass Ratio
+- The Number of the Smallest Unoccupied Chair
+- Construct Target Array With Multiple Sums
+
+## 7. K-way merge
+	Step through the key techniques and algorithms for efficiently merging sorted data structures.
+- Introduction to K-way Merge
+- Merge Sorted Array
+- Kth Smallest Number in M Sorted Lists
+- Find K Pairs with Smallest Sums
+- Merge K Sorted Lists
+- Kth Smallest Element in a Sorted Matrix
+- Kth Smallest Prime Fraction
+- Super Ugly Number
+
+## 8. Top K Elements
+
+
 ### Reference
 * https://www.educative.io/courses/grokking-coding-interview
 * https://www.teamblind.com/post/new-year-gift-curated-list-of-top-75-leetcode-questions-to-save-your-time-oam1oreu
 * https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews?tab=readme-ov-file
+* https://blog.algomaster.io/p/15-leetcode-patterns
 * 
